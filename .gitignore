@@ -1,0 +1,13 @@
+# Este repositório publica apenas documentação Markdown
+*
+!*/
+!*.md
+!/.gitignore
+
+# Árvores locais mantidas fora deste repositório
+/Banco de Dados/
+/Computação/
+/Notas de Estudo/
+
+# Artefatos gerados por notebooks
+.ipynb_checkpoints/
