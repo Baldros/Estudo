@@ -9,5 +9,7 @@ A conectividade, a geometria e a qualidade dos elementos afetam estabilidade, pr
 ## Livros e textos
 
 - *Mesh Generation: Application to Finite Elements* - Pascal Jean Frey e Paul-Louis George - referência extensa sobre geração de malhas, formulações geométricas, algoritmos de triangulação e aplicações em elementos finitos.
+- *Finite Element Mesh Generation* - Daniel S. H. Lo - amostra de uma obra dedicada a algoritmos de geração de malhas em domínios bidimensionais, superfícies curvas e espaços tridimensionais.
+- *Finite Element Mesh Generation* - Michael Okereke e Simeon Keates - capítulo de *Finite Element Applications* sobre densidade e qualidade de malhas, tipos de elementos, convergência e algoritmos de discretização.
 - *Polygon Mesh Processing* - apresenta representações de superfícies, estruturas de dados, suavização, parametrização, simplificação, remalhamento e processamento geométrico de malhas poligonais.
 - *Compact Array-Based Mesh Data Structures* - Alumbaugh e Jiao - artigo sobre estruturas compactas baseadas em arrays para representar half-edges em superfícies e sua extensão a malhas volumétricas.

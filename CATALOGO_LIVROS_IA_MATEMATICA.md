@@ -7,9 +7,9 @@ Catálogo do acervo local, organizado pela área indicada nas pastas. Os título
 | Área | Livros e textos principais | Materiais complementares | Total de PDFs |
 |---|---:|---:|---:|
 | Inteligência Artificial | 58 | 21 | 79 |
-| Matemática | 164 | 87 | 251 |
+| Matemática | 166 | 87 | 253 |
 
-> **Escopo:** 330 PDFs catalogados. Há também 2 arquivos compactados, listados ao final. Imagens, código, notebooks, apresentações e notas não foram tratados como livros.
+> **Escopo:** 332 PDFs catalogados. Há também 2 arquivos compactados, listados ao final. Imagens, código, notebooks, apresentações e notas não foram tratados como livros.
 
 Cada título abaixo identifica o arquivo correspondente no acervo local. Os arquivos binários permanecem fora do repositório remoto; o catálogo em Markdown é o registro versionado da coleção.
 
@@ -312,7 +312,7 @@ Cada título abaixo identifica o arquivo correspondente no acervo local. Os arqu
 - Um curso intermediario - Barry James
 
 <details>
-<summary>Materiais complementares (16)</summary>
+<summary>Materiais complementares (14)</summary>
 
 - (Springer Texts in Statistics) Allan Gut - Probability A Graduate Course (First and Second Edition Solutions, Instructor Solution Manual)-Springer (2013,2005)
 - Capítulo 1 - Análise Combinatória
