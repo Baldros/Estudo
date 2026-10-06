@@ -474,6 +474,8 @@ Cada título abaixo identifica o arquivo correspondente no acervo local. Os arqu
 
 - Convex Optimization
 - Linear and Nonlinear Programming
+- Linear_and_Nonlinear_Programming
+- Multicriteria_Optimization_2_ed
 - linear programming
 - NONLINEAR PROGRAMMING Theory and Algorit
 
